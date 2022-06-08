@@ -35,6 +35,7 @@
         'src/gtest-test-part.cc',
         'src/gtest-typed-test.cc',
         'src/gtest.cc',
+        'random addition as practice bla bla bla sorry for wasting your time :(('
       ],
       'sources!': [
         'src/gtest-all.cc',  # Not needed by our build.
